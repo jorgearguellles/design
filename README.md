@@ -1,6 +1,6 @@
 # Redesign proposal
 
-## Makers
+## Maker
 
 - Redesign by Jorge Arias Argüelles [GitHub](https://github.com/jorgearguellles) &
 [LinkedIn](https://www.linkedin.com/in/jorgeariasarguelles/) 
