@@ -11,7 +11,7 @@ Made with :green_heart: y:
 
 - [Figma](https://www.figma.com)
 
-## Prototypes
+## Figma Prototypes
 
 [Try it](https://www.figma.com/file/6cAu0FU6dHKYc8vjc7c8sc/jorgeAriasArg%C3%BCelles?node-id=0%3A1)
 
